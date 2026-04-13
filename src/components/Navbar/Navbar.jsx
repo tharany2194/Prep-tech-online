@@ -43,7 +43,7 @@ const Navbar = () => {
                 <div className="flex justify-between items-center h-[100px]">
                     <div className="flex items-center h-[100px]">
                         <img
-                            src="./logo-2.png"
+                            src="./logo-dummy.png"
                             alt="VCLOUDINFRA Logo"
                             className="h-32 w-auto object-contain"
                         />

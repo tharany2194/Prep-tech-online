@@ -44,7 +44,7 @@ const Footer = () => {
             <FaRegClock /> {currentTime}
           </p>
           <p className="flex items-start text-sm text-gray-300 gap-2">
-            <FaEnvelope /> naveencloudinfra@aol.com
+            <FaEnvelope /> abc@.com
           </p>
         </div>
 
@@ -69,7 +69,7 @@ const Footer = () => {
               <FaGithub size={24} />
             </a>
           </div>
-          <p className="text-sm text-gray-400">@2025 vcloudinfra, All rights reserved.</p>
+          <p className="text-sm text-gray-400">@2025 abcdef, All rights reserved.</p>
         </div>
       </div>
     </footer>
